@@ -2,6 +2,8 @@
 
 [TOC]
 
+## Outline
+
 1. What is MECE, why is it important to create MECE frameworks in XXI
    1. Positive example of MECE — octalysis
    2. Negative example of MECE - ???
@@ -10,3 +12,14 @@
    1. Why is it MECE
    2. Alternative frameworks — why they are not MECE
    3. 
+
+
+
+## Workshop theme + experience
+
+**Theme**:
+
+**Experience**:
+
+- Place:
+- 

@@ -4,6 +4,7 @@
 
 1. Wstęp do gamifikacji
    1. Co to jest gamifikacja
+      - Gra = 
    2. Octalysis - wstęp
    3. Gamifikacja a manipulacja — disclaimer
    4. Motywacja
@@ -46,4 +47,13 @@
    1. Etap pierwszy — empatia
    2. Etap drugi — definicja
    3. Etap trzeci — ideacja
-   4. 
+      1. Generowanie
+      2. Filtrowanie
+   4. *Etap czwarty — prototypowanie*
+   5. *Etap piąty — testowanie* 
+
+
+
+Spojrzeć na ten wykład empatycznie — oczami przyszłych wynalazców, których stworzę
+
+Pomysł: grupa mastermindowa trenująca DT

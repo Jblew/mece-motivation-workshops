@@ -63,15 +63,11 @@ Ale teraz — przypowieść o firmie stosującej metodę nakową.
 
 Zynga znana głównie z FarmVille i Zynga Poker. Firma Zynga tworząc gry przeprowadzała badania i testy w ramach których wypracowali niezwykle skuteczne strategie motywowania użytkowników do grania w ich gry. Używając testów A/B i przeprowadzając eksperymenty udowodnili skuteczność wielu technik gamifikacyjnych przy okazji zarabiając miliony.
 
-- Pierwsza gra: Texas Hold'em Poker na Facebooku — 40 mln aktywnych użytkowników w kwietniu 2009. Była to pierwsza gra na platformie Facebook
-- Farmville — 80 mln użytkowników w ciąg 6 miesięcy (Czerwiec 2009 - Luty 2010)
-- Cityville — 2010, 61 mln użytkowników miesięcznie, 16 mln dziennie
-- 2011, 2012 — IPO, ekspansja
-- 2013 — Punkt kulminacyjny i rozpoczęcie spadku ilości użytkowników. Od 2013 roku Zynga traci i zwalnia pracowników
-
-Błąd Zynga games? Skupienie się na krótkoterminowych miernikach => preferowanie technik powodujących zmianę nawyków użytkownika. Pomijanie tych, które utrzymują jego nawyki. 
+-  Błąd Zynga games? Skupienie się na krótkoterminowych miernikach => preferowanie technik powodujących zmianę nawyków użytkownika. Pomijanie tych, które utrzymują jego nawyki. 
 
 Użytkownicy szybko uzależniali się od grania w gry produkowane przez Zynga, walczyli z tym uzależnieniem i nie wracali do gier Zyngi.
+
+"Data Driven Design" — podejście Zyngi
 
 
 
@@ -105,27 +101,45 @@ Przełomem XXI wieku jest szybkość ropzprzestrzeniania się wiedzy
 
 Przełomem XXII wieku może być jej kompletność
 
+Gdyby Zynga miała teorię MECE — odkryliby, że brakującym elementem są techniki white hat.
+
+Jak stworzyć teorię MECE? W skrócie — zgromadzić całą posiadaną wiedzę a następnie inkrementalnie ją dzielić, aż nasz podział stanie się MECE.
+
 
 
 ## Motywacja
 
 ### Motywacja wewnętrzna a zewnętrzna
 
-- Dlaczego lubicie chodzić do pracy?
-- Dlaczego lubicie otrzymywać dobre oceny w szkole?
+- Dlaczego bierzecie udział w konkursach?
+- Dlaczego lubicie rysować?
+- Dlaczego lubicie posiadać ładny dom?
+- Dlaczego lubicie wychodzić ze znajomymi?
+- 
 - Dlaczego jeśli uczycie się sami to tę wiedzę zdobywacie szybciej, przyjemniej niż w szkole?
 
 
 
-### Pułapka motywacji zewnętrznej — szkoła
+- Pułapka motywacji zewnętrznej — szkoła
 
 
 
+### Motywacja a nawyk
+
+**Motywacja** — stan gotowości do podjęcia określonego działania (za Wikipedia)
+
+**Nawyk** —w terminologii psychologii zautomatyzowana czynność, którą nabywa się w wyniku ćwiczenia (głównie przez powtarzanie). (za Wikipedia)
+
+Motywacja jest czynnikiem koniecznym do:
+
+- zmiany nawyku (wytworzenia, porzucenia, wymiany na inny) — techniki z grupy: unikanie, ciekawość
+- utrzymania nawyku — grupa technik motywacyjnych takich, jak powołanie, kreatywność, feedback
 
 
 
+## Octalysis
 
-
+[Obrazek]
 
 
 
